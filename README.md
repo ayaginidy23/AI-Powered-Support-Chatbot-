@@ -2,7 +2,7 @@
 
 This project introduces an AI-powered **Technical Support Chatbot** designed to enhance the support experience for students at educational institutions. The chatbot leverages **LLaMA 3** (Meta AI) to provide accurate, dynamic responses in both **English** and **Arabic**. By automating the process of answering technical support queries, it reduces the reliance on human staff, improves operational efficiency, and enhances student satisfaction.
 
-https://github.com/ayaginidy23/AI-Powered-Support-Chatbot-/blob/main/Chatbot.png?raw=true
+Chatbot.png
 
 
 ## Table of Contents
